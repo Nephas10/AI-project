@@ -4,6 +4,8 @@
 ```bash
 git clone https://github.com/Nephas10/AI-project.git
 ```
+- Have python3 installed
+[Download Python](https://www.python.org/downloads/release/python-3124/)
 - Create Virtual Environment by installing virtualenv and creating one:
 ```bash
 pip install virtualenv
